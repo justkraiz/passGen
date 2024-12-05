@@ -1,1 +1,1 @@
-# passGen
+This is the source code of my program for generating passwords of a given length. If you don’t want to go into details of the implementation, then in the Run/Bin folder there is a Readme file that explains how to use the program using the console. Thank you for your attention.
